@@ -1,0 +1,14 @@
+*.o
+*._
+.DS_Store
+.vscode
+ftproot/
+*.o
+*.a
+/client
+/server
+objs
+put__*
+got__*
+a.out
+tests/
